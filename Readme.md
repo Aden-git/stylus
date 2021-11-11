@@ -1,3 +1,5 @@
+# This is the fork of the riginal stylus repo with small patch of comments handling
+
 <p align="center"><a href="https://stylus-lang.com" target="_blank" rel="noopener noreferrer"><img width="150" src="https://raw.githubusercontent.com/stylus/stylus/dev/graphics/Logos/stylus.png" alt="Stylus logo"></a></p>
 
 [![Build Status](https://github.com/stylus/stylus/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/stylus/stylus/actions?query=branch%3Adev)
